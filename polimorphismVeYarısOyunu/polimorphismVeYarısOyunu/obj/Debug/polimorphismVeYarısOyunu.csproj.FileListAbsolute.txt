@@ -1,0 +1,10 @@
+C:\Users\iamyu\source\repos\polimorphismVeYarısOyunu\polimorphismVeYarısOyunu\bin\Debug\polimorphismVeYarısOyunu.exe.config
+C:\Users\iamyu\source\repos\polimorphismVeYarısOyunu\polimorphismVeYarısOyunu\bin\Debug\polimorphismVeYarısOyunu.exe
+C:\Users\iamyu\source\repos\polimorphismVeYarısOyunu\polimorphismVeYarısOyunu\bin\Debug\polimorphismVeYarısOyunu.pdb
+C:\Users\iamyu\source\repos\polimorphismVeYarısOyunu\polimorphismVeYarısOyunu\obj\Debug\polimorphismVeYarısOyunu.csproj.AssemblyReference.cache
+C:\Users\iamyu\source\repos\polimorphismVeYarısOyunu\polimorphismVeYarısOyunu\obj\Debug\polimorphismVeYarısOyunu.Form1.resources
+C:\Users\iamyu\source\repos\polimorphismVeYarısOyunu\polimorphismVeYarısOyunu\obj\Debug\polimorphismVeYarısOyunu.Properties.Resources.resources
+C:\Users\iamyu\source\repos\polimorphismVeYarısOyunu\polimorphismVeYarısOyunu\obj\Debug\polimorphismVeYarısOyunu.csproj.GenerateResource.cache
+C:\Users\iamyu\source\repos\polimorphismVeYarısOyunu\polimorphismVeYarısOyunu\obj\Debug\polimorphismVeYarısOyunu.csproj.CoreCompileInputs.cache
+C:\Users\iamyu\source\repos\polimorphismVeYarısOyunu\polimorphismVeYarısOyunu\obj\Debug\polimorphismVeYarısOyunu.exe
+C:\Users\iamyu\source\repos\polimorphismVeYarısOyunu\polimorphismVeYarısOyunu\obj\Debug\polimorphismVeYarısOyunu.pdb
